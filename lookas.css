@@ -1,0 +1,19 @@
+body{
+	font-family: calibri;
+}
+
+a{
+	flex: wrap;
+	width: 50%;
+	display: inline-block;
+	font-family: montserrat;
+	font-size: 1.5em;
+	padding: 1%;
+	border: 0.01em solid black;
+	border-radius: 25px;
+	background-color: rgb(233, 56, 77);
+	color: white;
+	text-decoration: none;
+	margin: auto;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 3px 10px rgba(0, 0, 0, 0.19);
+}
